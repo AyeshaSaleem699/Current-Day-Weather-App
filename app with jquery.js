@@ -1,5 +1,6 @@
 function sendRequest() {
-  apiURL = "http://api.openweathermap.org/data/2.5/weather?q="+city+"&appid=2b95400b35e0b522595d67faef0ebae4";
+//   Add your api here like "htpp:...q="+city+"&..."
+  apiURL = ;
   $.getJSON(apiURL, function(result){
     data = result;
     var cityName = data.name;
