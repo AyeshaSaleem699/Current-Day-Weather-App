@@ -4,7 +4,7 @@ Web app that displays current weather conditions of a specific city using OpenWe
 ## Setup:
 - visit http://www.openweathermap.org/register and register 
 - After registeration you will get a free weather api.
-- use that API in the .js files after the comment
+- Add that API in the .js files after the comment
 
 ## About:
 - The web app makes ajax request to get current weather data of the city you enter.
